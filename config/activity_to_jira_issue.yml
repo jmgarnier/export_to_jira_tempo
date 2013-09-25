@@ -1,0 +1,39 @@
+vcore:
+  qa: VCORE-1805
+  dev: VCORE-1801
+  training: VCORE-1804
+  pm: VCORE-1803
+  meeting: VCORE-1802
+
+irtlite:
+  qa: IRTLITE-155
+  training: IRTLITE-154
+  pm: IRTLITE-153
+  meeting: IRTLITE-152
+  dev: IRTLITE-151
+
+iportal:
+  qa: IPORTAL-267
+  training: IPORTAL-266
+  pm: IPORTAL-265
+  meeting: IPORTAL-264
+  dev: IPORTAL-263
+
+int:
+  qa: INT-10
+  training: INT-9
+  professional_dev: INT-8
+  vacation: INT-7
+  sick: INT-6
+  biz_dev: INT-5
+  admin: INT-4
+  pm: INT-3
+  meeting: INT-2
+  stand_up: INT-1
+
+dns:
+  qa: DNS-694
+  training: DNS-693
+  pm: DNS-692
+  meeting: DNS-691
+  dev: DNS-690

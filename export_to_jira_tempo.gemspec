@@ -1,8 +1,8 @@
 $LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
 name = "export_to_jira_tempo"
-require "#{name}/version"
+#require "#{name}/version"
 
-Gem::Specification.new name, ExportToJiraTempo::VERSION do |gem|
+Gem::Specification.new name, '0.0.1' do |gem|
   gem.summary = "bla"
   gem.authors = ["Jean-Michel Garnier"]
   gem.email = "jean-michel@21croissants.com"

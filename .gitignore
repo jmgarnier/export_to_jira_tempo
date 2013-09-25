@@ -1,0 +1,7 @@
+.rvmrc
+config/config.yml
+lib/gist
+tmp
+.DS_Store
+tags
+.last-push
